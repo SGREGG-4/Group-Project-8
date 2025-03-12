@@ -13,7 +13,7 @@ MIST 4610
 
 4.Lutz, Nic [@niclutz3](https://github.com/niclutz3/)
 
-5.Tanti, Dev [@DevTanti](https://github.com/DevTanti/)
+5.Tanti, Dev [@DevTanti](https://github.com/DevTanti/Group-Project-8.git)
 
 ## Problem Description:
 When it comes to supply chain management there are a lot of products that are constantly being manufactured, stored in warehouses, ordered, shipped, and delivered. Suppliers, manufacturers, warehouse managers, shipping services, and retailers need to stay constantly informed on where everything is currently and what to do to ensure everything runs smoothly. This is all extremely difficult to track without a database that can keep everyone involved informed. Without it, products may be lost, overproduced, delivered at the wrong time, shipped to the wrong location, and not evenly distributed. This could lead to millions lost for all parties involved
