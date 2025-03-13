@@ -87,7 +87,7 @@ We use this query to figure out what the best way to have our inventory optimize
 
 ![image](https://github.com/user-attachments/assets/1224ba36-692c-412f-af1c-b3e81fe318d8)
 
-This query shows what products are being sold in the month of February in the year 2024. Some manufacturers create monthly sheets of their orders for tax purposes and also companies like can review this documentation to see what products sell the best during the month of February.
+This query shows what products are being sold in the month of February in the year 2024. Some manufacturers create monthly sheets of their orders for tax purposes and also companies can review this documentation to see what products sell the best during the month of February.
 
 7. This query finds which warehouses have a total stock quantity greater than the average stock quantity across all warehouses.
 
