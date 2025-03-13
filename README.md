@@ -96,6 +96,14 @@ This query shows what products are being sold in the month of February in the ye
 
 This is useful when manufacturers need to see which warehouses are already storing a heavy amount of products and which warehouses have more excess capacity to store more products.
 
+8: Get warehouse details where a specific product is located
+
+![image](https://github.com/user-attachments/assets/8b272a8c-1a9e-48fb-9f74-776e1be5619d)
+
+This helps in finding out where a specific product is located in order to understand wher products are spaced out and how fast they are being sold.
+
+
+
 ## Database information:
 
 
