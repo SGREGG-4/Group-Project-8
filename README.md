@@ -100,7 +100,7 @@ This is useful when manufacturers need to see which warehouses are already stori
 
 ![image](https://github.com/user-attachments/assets/8b272a8c-1a9e-48fb-9f74-776e1be5619d)
 
-This helps in finding out where a specific product is located in order to understand wher products are spaced out and how fast they are being sold.
+This helps in finding out where a specific product is located in order to understand where products are spaced out and how fast they are being sold.
 
 
 
