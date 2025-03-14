@@ -11,7 +11,7 @@ MIST 4610
 
 3.Gregg, Stephen [@SGREGG-4](https://github.com/SGREGG-4/Group-Project-8)
 
-4.Lutz, Nic [@niclutz3](https://github.com/niclutz3/)
+4.Lutz, Nic [@niclutz3](https://github.com/niclutz3/Supply-Chain-Database-Project)
 
 5.Tanti, Dev [@DevTanti](https://github.com/DevTanti/Group-Project-8.git)
 
