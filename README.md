@@ -119,5 +119,5 @@ Useful when trying to see where each product came from and potentially contactin
 
 ## Database information:
 
-
+![image](https://github.com/user-attachments/assets/92325abf-6f99-456c-9ef3-75c27d037801)
 
