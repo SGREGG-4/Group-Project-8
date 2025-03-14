@@ -102,6 +102,12 @@ This is useful when manufacturers need to see which warehouses are already stori
 
 This helps in finding out where a specific product is located in order to understand where products are spaced out and how fast they are being sold.
 
+9. Get details about where each product was stored and which warehouses.
+
+![image](https://github.com/user-attachments/assets/47dac667-478a-41e6-a306-9c4eb67a7dd6)
+
+Helps to see the total distribution of products across warehouses.
+
 
 
 ## Database information:
