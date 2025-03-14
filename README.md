@@ -9,7 +9,7 @@ MIST 4610
 
 2.Cheetha Rajesh, Sai [@saicheetha](https://github.com/saicheetha/)
 
-3.Gregg, Stephen [@SGREGG-4](https://github.com/SGREGG-4/)
+3.Gregg, Stephen [@SGREGG-4](https://github.com/SGREGG-4/Group-Project-8)
 
 4.Lutz, Nic [@niclutz3](https://github.com/niclutz3/)
 
