@@ -108,6 +108,14 @@ This helps in finding out where a specific product is located in order to unders
 
 Helps to see the total distribution of products across warehouses.
 
+10. This query finds who manufactured each product
+
+![image](https://github.com/user-attachments/assets/2c957aa0-75a7-4421-ae18-873b1c98a530)
+
+
+Useful when trying to see where each product came from and potentially contacting manufacturers about any known defects in a specific product.
+
+
 
 ## Database information:
 
