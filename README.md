@@ -121,3 +121,5 @@ Useful when trying to see where each product came from and potentially contactin
 
 ![image](https://github.com/user-attachments/assets/92325abf-6f99-456c-9ef3-75c27d037801)
 
+(Queries 6,7,8, and 9 are simple queries. That's why there are no x's.)
+
