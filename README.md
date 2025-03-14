@@ -7,7 +7,7 @@ MIST 4610
 ## Team Members:
 1.Alt, Jared [@jaralt](https://github.com/jaralt/Mist4610Group8)
 
-2.Cheetha Rajesh, Sai [@saicheetha](https://github.com/saicheetha/)
+2.Cheetha Rajesh, Sai [@saicheetha](https://github.com/saicheetha/MIST4610)
 
 3.Gregg, Stephen [@SGREGG-4](https://github.com/SGREGG-4/Group-Project-8)
 
